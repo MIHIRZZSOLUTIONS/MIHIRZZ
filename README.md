@@ -19,6 +19,11 @@
 [website]: https://sites.google.com/view/mihirzz/home
 [LinkenIN]: https://www.linkedin.com/in/mihirzz/
 
+<h1 align = 'Center'>My GitHub Stats</h1>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshiisaxena&show_icons=true&locale=en&layout=compact" alt="sakshiisaxena" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sakshiisaxena&show_icons=true&locale=en" alt="sakshiisaxena" /></p>
+<p align="center">
+
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
