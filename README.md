@@ -1,4 +1,4 @@
-### Hello there! 👋 My name is Mihir Patel
+### Hello there! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="50px" width="50px"> My name is Mihir Patel
 
 <!--
 **MIHIRZZ/MIHIRZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
