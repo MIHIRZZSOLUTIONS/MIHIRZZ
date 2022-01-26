@@ -23,3 +23,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MIHIRZZ&show_icons=true&locale=en&layout=compact" alt="MIHIRZZ" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MIHIRZZ&show_icons=true&locale=en" alt="MIHIRZZ" /></p>
 <p align="center">
+
+github-contribution-grid-snake.gif
