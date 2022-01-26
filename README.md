@@ -18,3 +18,5 @@
 
 [website]: https://sites.google.com/view/mihirzz/home
 [LinkenIN]: https://www.linkedin.com/in/mihirzz/
+
+github-contribution-grid-snake.svg
