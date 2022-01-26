@@ -20,8 +20,8 @@
 [LinkenIN]: https://www.linkedin.com/in/mihirzz/
 
 <h1 align = 'Center'>My GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshiisaxena&show_icons=true&locale=en&layout=compact" alt="sakshiisaxena" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sakshiisaxena&show_icons=true&locale=en" alt="sakshiisaxena" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MIHIRZZ&show_icons=true&locale=en&layout=compact" alt="MIHIRZZ" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MIHIRZZ&show_icons=true&locale=en" alt="MIHIRZZ" /></p>
 <p align="center">
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
