@@ -26,7 +26,7 @@
 
 <h2 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="github-contribution-grid-snake.gif" alt="snake"></center>
+  <img src="github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 github-contribution-grid-snake.gif
