@@ -3,7 +3,7 @@
 **MIHIRZZ/MIHIRZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I am a developer
+## I am a developer 👨‍💻
 
 - 🔭 I’m currently working automating the tasks using Selenium and Python
 - 🌱 I’m currently learning QA automation and Android development
@@ -14,6 +14,7 @@
 - 🥅 My goal in 2022 is to contribute more to Open Source projects    
 - 😄 Pronouns: me-here
 - ⚡ Fun fact: I love to animate the ideas :electron:
+- 👨‍🚀 Future Interests and :weight_lifting_man: Dreams to develop something about :cloud: Cloud Applications :coin: DeFi Applications using :chains: Blockchain Technology and     :spades: Games Development :soccer: It will be fun so, stay connected and let's :computer: code together for better world :earth_americas:
 
 [website]: https://sites.google.com/view/mihirzz/home
 [LinkenIN]: https://www.linkedin.com/in/mihirzz/
