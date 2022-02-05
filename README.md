@@ -11,6 +11,7 @@
 - 🤔 I’m looking for help with understanding the concepts of how money works in the world
 - 📫 Connect me on LinkedIn: [MIHIRZZ][LinkenIN]
 - 🌐 Reach out to my website: [MIHIRZZ][website]
+- 💻 HackerRank profile: [MIHIRZZ][HackerRank]
 - 🥅 My goal in 2022 is to contribute more to Open Source projects    
 - 😄 Pronouns: me-here
 - ⚡ Fun fact: I love to animate the ideas :electron:
@@ -18,7 +19,7 @@
 
 [website]: https://sites.google.com/view/mihirzz/home
 [LinkenIN]: https://www.linkedin.com/in/mihirzz/
-
+[HackerRank]: https://www.hackerrank.com/dashboard
 <h1 align = 'Center'>My GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MIHIRZZ&show_icons=true&locale=en&layout=compact" alt="MIHIRZZ" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MIHIRZZ&show_icons=true&locale=en" alt="MIHIRZZ" /></p>
