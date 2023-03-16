@@ -6,8 +6,7 @@
 ## I am a developer 👨‍💻
 
 - 🌱 I’m currently working on Python Applications in terms of analyzing and performing some operations on data.
-- 🚀 Next target is to create Cloud based applications :coin: DeFi Applications using :chains: Blockchain Technology
-- 🤔 I’m looking for help with understanding the concepts of how money works in the world
+- 🚀 Next target is to create Cloud based applications
 - 📫 Connect me on LinkedIn: [MIHIRZZ][LinkenIN]
 - 🌐 Reach out to my website: [MIHIRZZ][website]
 - 💻 HackerRank profile: [MIHIRZZ][HackerRank]
