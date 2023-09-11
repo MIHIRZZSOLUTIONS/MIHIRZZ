@@ -18,10 +18,4 @@
 [HackerRank]: https://www.hackerrank.com/dashboard
 <h1 align = 'Center'>My GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MIHIRZZ&show_icons=true&locale=en&layout=compact" alt="MIHIRZZ" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MIHIRZZ&show_icons=true&locale=en" alt="MIHIRZZ" /></p>
-<p align="center">
 
-<h2 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/MIHIRZZ/MIHIRZZ/blob/5a81ae87d3494a50729cb82b58736d973755c3eb/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
