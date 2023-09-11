@@ -11,5 +11,4 @@
 [website]: https://sites.google.com/view/mihirzz/home
 [LinkenIN]: https://www.linkedin.com/in/mihirzz/
 [HackerRank]: https://www.hackerrank.com/dashboard
-<h1 align = 'Center'>My GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MIHIRZZ&show_icons=true&locale=en&layout=compact" alt="MIHIRZZ" /></p>
