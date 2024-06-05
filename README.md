@@ -6,7 +6,7 @@
 ## I am a software consultant and soloprenuer who provides software solutions 👨‍💻
 - 📫 Connect me on LinkedIn: [MIHIRZZ Solutions][LinkenIN]
 - 🌐 Reach out to my website: [MIHIRZZ Solutions][Website]
-- :yt: My YouTube Channel: [MIHIRZZ Solutions][YouTube]
+- ▶️ My YouTube Channel: [MIHIRZZ Solutions][YouTube]
 
 [Website]: https://mihirzzsolutions.com
 [LinkenIN]: https://www.linkedin.com/in/mihirzzsolutions/
