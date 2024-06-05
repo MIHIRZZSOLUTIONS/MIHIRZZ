@@ -3,12 +3,12 @@
 **MIHIRZZ/MIHIRZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I am a developer 👨‍💻
-- 📫 Connect me on LinkedIn: [MIHIRZZ][LinkenIN]
-- 🌐 Reach out to my website: [MIHIRZZ][website]
-- 💻 HackerRank profile: [MIHIRZZ][HackerRank]
+## I am a software consultant and soloprenuer who provides software solutions 👨‍💻
+- 📫 Connect me on LinkedIn: [MIHIRZZ Solutions][LinkenIN]
+- 🌐 Reach out to my website: [MIHIRZZ Solutions][Website]
+- :yt: My YouTube Channel: [MIHIRZZ Solutions][YouTube]
 
-[website]: https://sites.google.com/view/mihirzz/home
-[LinkenIN]: https://www.linkedin.com/in/mihirzz/
-[HackerRank]: https://www.hackerrank.com/dashboard
+[Website]: https://mihirzzsolutions.com
+[LinkenIN]: https://www.linkedin.com/in/mihirzzsolutions/
+[YouTube]: https://www.youtube.com/@mihirzzsolutions
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MIHIRZZ&show_icons=true&locale=en&layout=compact" alt="MIHIRZZ" /></p>
