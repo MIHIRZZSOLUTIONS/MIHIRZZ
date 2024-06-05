@@ -11,4 +11,3 @@
 [Website]: https://mihirzzsolutions.com
 [LinkenIN]: https://www.linkedin.com/in/mihirzzsolutions/
 [YouTube]: https://www.youtube.com/@mihirzzsolutions
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MIHIRZZ&show_icons=true&locale=en&layout=compact" alt="MIHIRZZ" /></p>
